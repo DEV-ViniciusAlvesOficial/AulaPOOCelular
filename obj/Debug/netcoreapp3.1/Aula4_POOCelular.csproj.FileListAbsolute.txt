@@ -1,0 +1,13 @@
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.exe
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.deps.json
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.runtimeconfig.json
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.runtimeconfig.dev.json
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.dll
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\bin\Debug\netcoreapp3.1\Aula4_POOCelular.pdb
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.csprojAssemblyReference.cache
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.AssemblyInfoInputs.cache
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.AssemblyInfo.cs
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.dll
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.pdb
+C:\Users\ale\Desktop\Senai\Aula4_POOCelular\obj\Debug\netcoreapp3.1\Aula4_POOCelular.genruntimeconfig.cache
